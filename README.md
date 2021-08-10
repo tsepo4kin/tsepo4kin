@@ -1,6 +1,6 @@
 # Hey 👋, I'm tsepo4kin!
 
-<img align="right" alt="GIF" src="https://psv4.userapi.com/c536236/u314085640/docs/d46/c546c6eb5544/gigaChad.jpg?extra=YCgc7XiNcZO-bycGBp31jXjosGfrnq5It2jlHtgN2A4YO3kRBsoI-QatUZn9E3p_Xr4GAyddp5KD5_WVKrVkbdoD42Vu0GDcuLwhy6aK_S3ST0o9sH1nK5cvVFdRMEh3PoBXCho1ebvz2TqUhT1bXAXsK7U"/>
+<img align="right" alt="GIF" src="https://sun9-16.userapi.com/impg/-XWMQaG17PAvsmLt-WZwVrzuT3lI8NE2T6djjA/iujSYTw6koA.jpg?size=500x270&quality=96&sign=f63b4c990af9f1fa0e52cbb64b455f44"/>
 
 <a href="https://twitter.com/tsepo4kin" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
