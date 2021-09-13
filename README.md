@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
 
-Check my linkedIn at 
-<a href="https://www.linkedin.com/in/tsepo4kin/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedIn">
-</a> !
 
 
 ## About Me
